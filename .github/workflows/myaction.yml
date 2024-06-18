@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Print README
-        run: cat README.md
+        run: cat ../../README.md
      
   
   
